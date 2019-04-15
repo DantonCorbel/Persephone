@@ -65,7 +65,17 @@ h2, h3 {
     width: 100%;
 }
 
+ul {
+    display: flex;
+    align-items: stretch; /* Default */
+    justify-content: space-between;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 li {
+    flex: 0 1 auto; /* Default */
     display: inline;
     list-style-type: none;
 }
