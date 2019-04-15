@@ -17,8 +17,12 @@ body {
   
 }
 
-h1 {
+h1{
   background-color: rgba(0,204,102,1);
+}
+
+h2, h3 {
+    color: rgba(224,224,224,1);
 }
 
 
