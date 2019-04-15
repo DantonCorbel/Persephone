@@ -60,12 +60,15 @@ h2, h3 {
     background-color: rgba(218, 219, 212, 1);
     padding: 10px;
     text-align: center;
-    display: inline;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    list-style-type:none;
+}
+
+li {
+    display: none;
+    list-style-type: none;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
