@@ -11,14 +11,14 @@ body {
 /* Style the header */
 .header {
     background-color: rgba(207,208,195,1);
-  padding: 0;
-  text-align: right;
-  color: rgba(64,64,64,1);
+    padding: 0;
+    text-align: right;
+    color: rgba(64,64,64,1);
   
 }
 
 h1{
-  background-color: rgba(196,166,121,1);
+    background-color: rgba(196,166,121,1);
     color: rgba (64,64,64,1);
     padding: 10px;
 }
@@ -57,10 +57,10 @@ h2, h3 {
 
 /* Style the footer */
 .footer {
-    background-color: rgba(74, 84, 99, 1);
+    background-color: rgba(213, 214, 207, 1);
     padding: 10px;
     text-align: center;
-    
+    display: inline
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
