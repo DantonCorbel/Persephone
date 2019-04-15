@@ -19,11 +19,13 @@ body {
 
 h1{
   background-color: rgba(196,166,121,1);
-    color: rgba (64,64,64,1)
+    color: rgba (64,64,64,1);
+    padding: 10px;
 }
 
 h2, h3 {
     color: rgba(64,64,64,1);
+    padding: 10px;
 }
 
 
