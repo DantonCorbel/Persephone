@@ -61,6 +61,10 @@ h2, h3 {
     padding: 10px;
     text-align: center;
     display: inline
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
