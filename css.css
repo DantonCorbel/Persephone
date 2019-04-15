@@ -66,6 +66,7 @@ h2, h3 {
 }
 
 ul {
+    display: -webkit-flex;
     display: flex;
     align-items: stretch; /* Default */
     justify-content: space-between;
