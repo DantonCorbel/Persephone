@@ -65,15 +65,15 @@ h2, h3 {
     width: 100%;
 }
 
-ul {
+/*ul {
     display: -webkit-flex;
     display: flex;
     align-items: stretch; /* Default */
-    justify-content: space-between;
+    /*justify-content: space-between;
     width: 100%;
     margin: 0;
     padding: 0;
-}
+}*/
 
 li {
     flex: 0 1 auto; /* Default */
